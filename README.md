@@ -1,4 +1,4 @@
-# b24ai-n8n-dataset
+# n8n Workflow Database
 Created at: 2025-07-01
 
 Dataset for n8n workflows
